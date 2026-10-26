@@ -4,9 +4,7 @@ I'm Maria, a Computer Science graduate with a growing focus on Data Science and 
 
 I enjoy working with data, discovering patterns, and building solutions that turn raw data into meaningful insights.
 
-I'm particularly interested in data analysis, signal processing, machine learning, and understanding how data can be used to solve real-world problems.
-
-My technical background includes Python, SQL, data processing, and software engineering. I'm also interested in building reliable data pipelines and developing machine learning models.
+I'm particularly interested in data processing, signal processing, building reliable data pipelines and developing machine learning models.
 
 **Featured Projects**
 
@@ -19,8 +17,6 @@ I'm currently exploring opportunities in Data Science and Machine Learning, wher
 Tech Stack
 - Data Engineering: Python, PySpark, Delta Lake, MinIO / S3, Bash, Docker
 - Data Science: pandas, scikit-learn, PCA / LDA, pgmpy, Pyro, statistical analysis
-- Backend / Web Development: TypeScript, Node.js, React, REST, GraphQL, PostgreSQL, Neo4j
-- Tools: Docker, Git
 
 Fun Facts
 - I have a dog.
