@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**MariZaja/MariZaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Maria, a Computer Science graduate with a growing focus on Data Science and Machine Learning.
 
-Here are some ideas to get you started:
+I enjoy working with data, discovering patterns, and building solutions that turn raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in data analysis, signal processing, machine learning, and understanding how data can be used to solve real-world problems.
+
+My technical background includes Python, SQL, data processing, and software engineering. I'm also interested in building reliable data pipelines and developing machine learning models.
+
+**Featured Projects**
+
+Quality-Aware Emotion Recognition — Developing a data processing pipeline that incorporates signal quality assessment into multimodal emotion recognition, alongside a machine learning model to investigate how signal quality affects emotion recognition performance.
+
+Data Lakehouse Architecture — Experimenting with the implementation of a data lakehouse architecture for multimodal data, including data ingestion, storage, and organization across different processing layers.
+
+I'm currently exploring opportunities in Data Science and Machine Learning, where I can apply my analytical skills and continue developing my expertise.
+
+Tech Stack
+- Data Engineering: Python, PySpark, Delta Lake, MinIO / S3, Bash, Docker
+- Data Science: pandas, scikit-learn, PCA / LDA, pgmpy, Pyro, statistical analysis
+- Backend / Web Development: TypeScript, Node.js, React, REST, GraphQL, PostgreSQL, Neo4j
+- Tools: Docker, Git
+
+Fun Facts
+- I have a dog.
+- I don't like coffe.
+- I sing in a choir.
