@@ -13,6 +13,6 @@ Tech Stack
 - Data Science: pandas, scikit-learn, PCA / LDA, pgmpy, Pyro, statistical analysis
 
 Fun Facts
-- I have a dog.
-- I don't like coffe.
-- I sing in a choir.
+- I have a dog 🐶
+- I don't like coffee ☕
+- I sing in a choir 🎵
